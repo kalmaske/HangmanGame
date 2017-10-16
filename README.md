@@ -14,7 +14,7 @@ what the player will see on the screen
 
 After the player wins or losses a sound will play for that specific result  
 
-The goal of this project to learn more about object-oriented programming and become more comfortable using jQuery.
+The goal of this project to learn more about object-oriented programming and practice using HTML, Javascript, CSS, and jQuery.
 
 Have fun playing !!
 
