@@ -12,7 +12,39 @@ var keyboard = ['a','b','c',
                   'v','w','x',
                   'y','z'];
 // array of word for the game 
-var wordBank =['amsterdam','bahrain','canada','fiji','finland','germany','italy','madagascar','portugal','philippines','switzerland','venezuela','mozambique','australia','dubai','lebanon','indonesia','ireland'];
+var wordBank =['amsterdam',
+               'bahrain',
+               'canada',
+               'fiji',
+               'finland',
+               'germany',
+               'italy',
+               'madagascar',
+               'portugal',
+               'philippines',
+               'switzerland',
+               'venezuela',
+               'mozambique',
+               'australia',
+               'dubai',
+               'lebanon',
+               'indonesia',
+               'ireland',
+               'france',
+               'greece',
+               'indonesia',
+               'jamaica',
+               'jordan',
+               'korea',
+               'mexico',
+               'mongolia',
+               'mali',
+               'nepal',
+               'norway',
+               'oman',
+               'peru',
+               'qatar'
+              ];
 //random word
 var chosenRandomWord = "";
 //how many letters are there in the word
